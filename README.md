@@ -8,7 +8,8 @@
 
 I am a Research Engineer on Natural Language Processing who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 🔭 I’m currently working on **Natural Language Processing & Understanding**
+
+- :computer: I’m currently working on **Natural Language Processing & Understanding**
 
 - 🌱 I’m currently learning [Neural Language Correction](https://arxiv.org/abs/1603.09727)
 
