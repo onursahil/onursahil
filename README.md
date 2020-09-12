@@ -8,9 +8,9 @@
 
 I am a Research Engineer on Natural Language Processing who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 🔭 I’m currently working on **Natural Language Understanding**
+- 🔭 I’m currently working on **Natural Language Processing & Understanding**
 
-- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
+- 🌱 I’m currently learning [Neural Language Correction](https://arxiv.org/abs/1603.09727)
 
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
 
@@ -20,7 +20,7 @@ I am a Research Engineer on Natural Language Processing who is passionate about 
 ## Some of my Github Public Stats
 <a href="https://samujjwaal.tech/"><img src="https://github.com/onursahil/onursahil/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=onursahil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/onursahil)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
 
