@@ -22,19 +22,11 @@ I am a Research Engineer on Natural Language Processing who is passionate about 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onursahil&layout=compact&hide=html" alt="onursahil" /></p>
 
-
-## Some of my Github Public Stats
-<a href="https://samujjwaal.tech/"><img src="https://github.com/onursahil/onursahil/raw/master/etc/coffee.png" align="right" height="275" /></a>
-
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=onursahil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/onursahil)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onursahil)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=onursahil.onursahil)
-[![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/samujjwaal/samujjwaal)
-![Repo Views](https://views.whatilearened.today/views/github/samujjwaal/samujjwaal.svg?cache=remove)
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
+[![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/onursahil/onursahil)
+![Repo Views](https://views.whatilearened.today/views/github/onursahil/onursahil.svg?cache=remove)
 
 <!--For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
