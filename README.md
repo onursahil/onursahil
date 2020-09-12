@@ -4,17 +4,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Onur%20Sahil-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-sahil-cerit "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@onursahill-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/onursahill "Follow on Twitter")
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onursahil" alt="onursahil" /> </p>
+
 I am a Research Engineer on Natural Language Processing who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
+- 🔭 I’m currently working on **Natural Language Understanding**
+
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
+
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 📫 How to reach me: Use any of the [badges](#hi-there-im-samujjwaal-) above
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+
+- 📫 How to reach me: **onursahilme@gmail.com**
+
 
 ## Some of my Github Public Stats
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://github.com/onursahil/onursahil/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
 
