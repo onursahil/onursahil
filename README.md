@@ -1,7 +1,7 @@
 ## Hi there, I'm Samujjwaal 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-onursahilme@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:onursahilme@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Onur%20Sahil-0072b1?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/onur-sahil-cerit "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Onur%20Sahil-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-sahil-cerit "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@onursahill-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/onursahill "Follow on Twitter")
 
 I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
