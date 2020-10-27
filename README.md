@@ -13,6 +13,8 @@ I am a Research Engineer on Natural Language Processing who is passionate about 
 
 - 🌱 I’m currently learning [Neural Language Correction](https://arxiv.org/abs/1603.09727)
 
+- 💻 I'm now working on semantic search engine using elasticsearch and vector embeddings
+
 - :key: I solve algorithm problems on [Leetcode](https://leetcode.com/onursahil/) and [Hackerrank](https://www.hackerrank.com/onursahil)
 
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
