@@ -11,7 +11,7 @@ I am a Research Engineer on Natural Language Processing who is passionate about 
 
 - :computer: I’m currently working on **Natural Language Processing & Understanding**
 
-- 🌱 I’m currently learning [Neural Language Correction](https://arxiv.org/abs/1603.09727)
+- 🌱 I’m currently learning [Recommendation Systems]
 
 - 💻 My recent project is on semantic search engine using vector embeddings
 
