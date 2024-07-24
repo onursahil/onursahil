@@ -11,13 +11,13 @@ I am a Research Engineer on Natural Language Processing who is passionate about 
 
 - :computer: I’m currently working on **Natural Language Processing & Understanding**
 
-- 🌱 I’m currently learning [Recommendation Systems]
+- 🌱 I’m currently expertising Large&Small Language Models
 
 - 💻 My recent project is on semantic search engine using vector embeddings
 
 - :key: I solve algorithm problems on [Leetcode](https://leetcode.com/onursahil/) and [Hackerrank](https://www.hackerrank.com/onursahil)
 
-- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
+- 👯 I’m looking to collaborate on exciting Data Science projects
 
 - 📫 Reach me: **onursahilme@gmail.com** or **https://www.linkedin.com/in/onursahil**
 
