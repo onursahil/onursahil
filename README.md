@@ -9,17 +9,17 @@
 I am a Data Scientist/Research Engineer in Natural Language Processing :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute.
 
 
-- :computer: I’m currently working on **Natural Language Processing & Understanding**
+- I’m currently working on **Natural Language Processing & Understanding**
 
-- 🌱 I’m recently doing research on Large & Small Language Models
+- I’m recently doing research on Large & Small Language Models
 
-- 💻 My recent project is on training models and building RAG applications with LLMs
+- My recent project is on training models and building RAG applications with LLMs
 
-- :key: I solve algorithm problems on [Leetcode](https://leetcode.com/onursahil/) and [Hackerrank](https://www.hackerrank.com/onursahil)
+- I solve algorithm problems on [Leetcode](https://leetcode.com/onursahil/) and [Hackerrank](https://www.hackerrank.com/onursahil)
 
-- 👯 I’m looking to collaborate on exciting Data Science projects
+- I’m looking to collaborate on exciting Data Science projects
 
-- 📫 Reach me: **onursahilme@gmail.com** or **https://www.linkedin.com/in/onursahil**
+- Reach me: **onursahilme@gmail.com** or **https://www.linkedin.com/in/onursahil**
 
 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="gcp" width="60" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></p>
