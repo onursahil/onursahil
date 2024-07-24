@@ -6,14 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onursahil" alt="onursahil" /> </p>
 
-I am a Research Engineer on Natural Language Processing who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a Data Scientist/Research Engineer in Natural Language Processing :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute.
 
 
 - :computer: I’m currently working on **Natural Language Processing & Understanding**
 
-- 🌱 I’m currently expertising Large & Small Language Models
+- 🌱 I’m recently doing research on Large & Small Language Models
 
-- 💻 My recent project is on RAG applications and training LLMs
+- 💻 My recent project is on training models and building RAG applications with LLMs
 
 - :key: I solve algorithm problems on [Leetcode](https://leetcode.com/onursahil/) and [Hackerrank](https://www.hackerrank.com/onursahil)
 
