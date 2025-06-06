@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-    I work on LLM, RAG App, and Agentic AI
+    I work on Large Language Models, Retrieval Augmented Generation, and Agentic AI
   </samp>
   <br><br>
 </p>
