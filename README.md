@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, I'm Onur Sahil, Senior AI/ML Engineer at <a href="https://trendyol.com/">Trendyol</a>.
+    Hi, I'm Onur Sahil, Senior AI/ML Engineer at <a href="https://www.blue.cloud/">BlueCloud</a>.
   </samp>
   <br><br>
 </p>
