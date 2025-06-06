@@ -11,5 +11,3 @@ I am an AI Engineer specialized in Natural Language Processing.
 - I’m currently working on **Large Language Models**, **RAG Applications**, and **Agentic AI**.
 
 - Reach me: **onursahilme@gmail.com** or **https://www.linkedin.com/in/onursahil**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onursahil&layout=compact&hide=html" alt="onursahil" /></p>
