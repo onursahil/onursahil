@@ -1,4 +1,4 @@
-## Hi there, I'm Onur Sahil 👋🏼👨🏻‍💻
+## Hi there, I'm Onur Sahil 👋🏼
 
 [![Gmail Badge](https://img.shields.io/badge/-onursahilme@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:onursahilme@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Onur%20Sahil-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-sahil-cerit "Connect on LinkedIn")
