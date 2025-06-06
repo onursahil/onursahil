@@ -4,8 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Onur%20Sahil-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-sahil-cerit "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@onursahill-00acee?style=flat&logo=Twitter&logoColor=white)]((https://x.com/onursahilme "Follow on Twitter")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onursahil" alt="onursahil" /> </p>
-
 I am an AI Engineer specialized in Natural Language Processing.
 
 - I’m currently working on **Large Language Models**, **RAG Applications**, and **Agentic AI**.
